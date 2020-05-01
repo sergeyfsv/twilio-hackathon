@@ -1,0 +1,8 @@
+{
+  "apikey": "here-should-be-api-key",
+  "iam_apikey_description": "Auto-generated for key 44a585a3-a591-445e-8bbd-08a0f16f8b9b",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/c1d54d07662743919de829b507ba2de3::serviceid:ServiceId-f408f95b-43dc-4ed3-a191-c04c748b418e",
+  "url": "https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/170186a9-8277-4e85-97b4-1310e8af8287"
+}
