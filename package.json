@@ -44,7 +44,7 @@
     "body-parser": "^1.18.3",
     "chrono-node": "^1.4.5",
     "errorhandler": "^1.5.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-flash": "0.0.2",
     "express-validator": "^6.2.0",
     "ibm-cloud-env": "^0.2.6",
